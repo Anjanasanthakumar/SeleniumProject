@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T18:22:58 IST" name="Default suite" finished-at="2024-11-26T18:23:06 IST" duration-ms="8574">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T18:22:58 IST" name="Default test" finished-at="2024-11-26T18:23:06 IST" duration-ms="8574">
+      <class name="testng.Multiplewindow">
+        <test-method is-config="true" signature="set()[pri:0, instance:testng.Multiplewindow@26d9b808]" started-at="2024-11-26T18:22:58 IST" name="set" finished-at="2024-11-26T18:23:05 IST" duration-ms="7074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="setup()[pri:0, instance:testng.Multiplewindow@26d9b808]" started-at="2024-11-26T18:23:05 IST" name="setup" finished-at="2024-11-26T18:23:06 IST" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- testng.Multiplewindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
